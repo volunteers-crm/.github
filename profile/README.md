@@ -2,11 +2,13 @@
 
 ![dragon code volunteers](https://preview.dragon-code.pro/dragon-code/volunteers.svg?background=f9322c&invert=1)
 
+> We are just starting work on this project, so it is still empty 🙂
+
 Most volunteers do not have their own resource for quick and high-quality management of incoming applications and tracking the status of their implementation.
 
 We noticed that many people process this information using Google Tables, which is not very convenient.
 
-That is why The Dragon Code team decided to develop their own CRM for volunteers to solve problems with processing applications.
+That is why [The Dragon Code](https://github.com/TheDragonCode) team decided to develop their own CRM for volunteers to solve problems with processing applications.
 
 ### What do you get?
 
