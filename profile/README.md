@@ -2,7 +2,7 @@
 
 ![dragon code volunteers](https://preview.dragon-code.pro/the-dragon-code/volunteers.svg?background=f9322c&invert=1)
 
-> We are just starting work on this project, so it is still empty 🙂
+> We are just starting work on this project 🙂
 
 Most volunteers do not have their own resource for quick and high-quality management of incoming applications and tracking the status of their implementation.
 
