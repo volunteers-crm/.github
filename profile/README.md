@@ -2,6 +2,12 @@
 
 ![dragon code volunteers](https://preview.dragon-code.pro/the-dragon-code/volunteers-crm.svg?background=f9322c)
 
+> [!WARNING]
+> 
+> The project has been frozen indefinitely due to lack of interest from the surrounding community.
+>
+> Currently, the frontend part of the project is about 90% complete and the backend part is about 10% complete.
+
 > We are just starting work on this project 🙂
 
 Most volunteers do not have their own resource for quick and high-quality management of incoming applications and tracking the status of their implementation.
