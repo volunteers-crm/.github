@@ -1,6 +1,6 @@
 ## Volunteers CRM
 
-![dragon code volunteers](https://preview.dragon-code.pro/the-dragon-code/volunteers-crm.svg?background=f9322c)
+![dragon code volunteers](https://banners.beyondco.de/Volunteers%20CRM.png?theme=light&packageManager=&packageName=&pattern=topography&style=style_2&description=by+The+Dragon+Code&md=1&showWatermark=1&fontSize=100px&images=https%3A%2F%2Flaravel.com%2Fimg%2Flogomark.min.svg)
 
 > [!WARNING]
 > 
